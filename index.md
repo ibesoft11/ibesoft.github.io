@@ -1,13 +1,14 @@
 ## About
 
 I am a logic-driven full stack developer with a passion for collaboration and a strong drive to see projects through completion.
-I’ve always sought out opportunities and challenges that are meaningful to me. I've never stopped engaging my passion to learn, help others and solve problems.
+I have always sought out opportunities and challenges. I've never stopped engaging my passion to learn, help others and solve problems.
 
 ## Experience
 
 ### GenesysTechHub
 
 _A people centered community focused on growing talent, sustaining businesses and developing technical capacity in Nigeira_
+
 I worked as a Backend developer intern, worked on various web/software projects while using best practices.
 Tools: Nodejs, Express, MongoDB, GraphQL, MySql, Git
 
@@ -41,6 +42,7 @@ http://www.affiammu.herokuapp.com
 ## Education
 
 National Diploma (Upper Credit), Computer Science - Abia State Polytechnic, Aba (2016)
+
 Bachelor of Science - Renaissance University, Enugu (In View)
 
 ## Contact
