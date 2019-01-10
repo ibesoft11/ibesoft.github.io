@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/ibesoft11/ibesoft.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a logic-driven full stack developer with a passion for collaboration and a strong drive to see projects through completion.
+I’ve always sought out opportunities and challenges that are meaningful to me. I've never stopped engaging my passion to learn, help others and solve problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+### GenesysTechHub
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_A people centered community focused on growing talent, sustaining businesses and developing technical capacity in Nigeira_
+I worked as a Backend developer intern, worked on various web/software projects while using best practices.
+Tools: Nodejs, Express, MongoDB, GraphQL, MySql, Git
 
-```markdown
-Syntax highlighted code block
+## Projects
 
-# Header 1
-## Header 2
-### Header 3
+### Gatemanjs
+An authorization library to manage roles and claims in node applications that use MongoDB for data storage.
+https://www.npmjs.com/package/gatemanjs
 
-- Bulleted
-- List
+### AffiaMmuta
+An e-learning platform committed to improving Igbo language literacy of Nigerians living in the diaspora.
+http://www.affiammu.herokuapp.com
 
-1. Numbered
-2. List
+## Skills
 
-**Bold** and _Italic_ and `Code` text
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Node**
+- **MongoDB**
+- **SQL**
+- **Git & Github**
+- **C#.Net**
+- **Agile Scrum**
+- **System Administration (Windows)**
 
-[Link](url) and ![Image](src)
-```
+## Awards
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Genesys Student of the year (2018)
 
-### Jekyll Themes
+## Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ibesoft11/ibesoft.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+National Diploma (Upper Credit), Computer Science - Abia State Polytechnic, Aba (2016)
+Bachelor of Science - Renaissance University, Enugu (In View)
 
-### Support or Contact
+## Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Github Profile](https://www.github.com/ibesoft11)
+[Twitter](https://www.twitter.com/ibesoft11)
