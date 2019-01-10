@@ -45,6 +45,6 @@ Bachelor of Science - Renaissance University, Enugu (In View)
 
 ## Contact
 
-- [Gmail](ibesoft11@gmail.com)
+- You can send me a mail at ibesoft11@gmail.com
 - [Github Profile](https://www.github.com/ibesoft11)
 - [Twitter](https://www.twitter.com/ibesoft11)
