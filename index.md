@@ -45,5 +45,6 @@ Bachelor of Science - Renaissance University, Enugu (In View)
 
 ## Contact
 
-[Github Profile](https://www.github.com/ibesoft11)
-[Twitter](https://www.twitter.com/ibesoft11)
+- [Gmail](ibesoft11@gmail.com)
+- [Github Profile](https://www.github.com/ibesoft11)
+- [Twitter](https://www.twitter.com/ibesoft11)
