@@ -16,28 +16,28 @@ Tools: Nodejs, Express, MongoDB, GraphQL, MySql, Git
 
 ### Gatemanjs
 An authorization library to manage roles and claims in node applications that use MongoDB for data storage.
-https://www.npmjs.com/package/gatemanjs
+[Gateman.js](https://www.npmjs.com/package/gatemanjs)
 
 ### AffiaMmuta
 An e-learning platform committed to improving Igbo language literacy of Nigerians living in the diaspora.
-http://www.affiammu.herokuapp.com
+[AffiaMmuta](http://www.affiammu.herokuapp.com)
 
 ## Skills
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Node**
+- **GraphQL**
+- **Node.js**
 - **MongoDB**
 - **SQL**
 - **Git & Github**
 - **C#.Net**
+- **HTML**
+- **CSS**
 - **Agile Scrum**
 - **System Administration (Windows)**
 
 ## Awards
 
-- Genesys Student of the year (2018)
+- Nikolai Tesla Award - GenesysTechHub (2018)
 
 ## Education
 
