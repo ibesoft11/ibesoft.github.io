@@ -20,7 +20,7 @@ An authorization library to manage roles and claims in node applications that us
 
 ### AffiaMmuta
 An e-learning platform committed to improving Igbo language literacy of Nigerians living in the diaspora.
-[AffiaMmuta](http://www.affiammu.herokuapp.com)
+[AffiaMmuta](http://affiammu.herokuapp.com)
 
 ## Skills
 
@@ -50,3 +50,4 @@ Bachelor of Science - Renaissance University, Enugu (In View)
 - You can send me a mail at ibesoft11@gmail.com
 - [Github Profile](https://www.github.com/ibesoft11)
 - [Twitter](https://www.twitter.com/ibesoft11)
+- [Medium](https://medium.com/@Ibesoft11)
